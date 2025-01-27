@@ -7,6 +7,7 @@ public class ManaCrystalItem extends Item {
     public ManaCrystalItem(Properties pProperties) {
         super(pProperties);
     }
+    int a;
 
 
 
