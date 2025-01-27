@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "miragic:raw_silver"
+    }
+  },
+  "result": {
+    "item": "miragic:raw_silver_block",
+    "count": 1
+  },
+  "show_notification": true
+}

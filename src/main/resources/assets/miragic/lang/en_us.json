@@ -1,0 +1,18 @@
+{
+  "item.miragic.mana_crystal": "Mana Crystal",
+  "item.miragic.limitquest_heart": "Limit Quest Heart",
+  "item.miragic.raw_silver": "Raw Silver",
+  "item.miragic.silver_ingot": "Silver Ingot",
+  "item.miragic.silver_nugget": "Silver Nugget",
+
+
+  "block.miragic.silver_ore": "Silver Ore",
+  "block.miragic.silver_block": "Silver Block",
+  "block.miragic.deepslate_silver_ore": "Deepslate Silver Ore",
+  "block.miragic.raw_silver_block": "Raw Silver Block",
+
+
+
+
+  "creativetab.miragic_tab": "Miragic"
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": {
+      "model": "miragic:block/silver_block",
+      "harvest_level": 2,
+      "harvest_tool": "pickaxe"
+    }
+  }
+
+}

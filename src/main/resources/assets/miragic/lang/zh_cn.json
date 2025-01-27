@@ -1,0 +1,23 @@
+{
+  "item.miragic.mana_crystal": "魔晶",
+  "item.miragic.limitquest_heart": "极限之心",
+  "item.miragic.raw_silver": "粗银",
+  "item.miragic.silver_ingot": "银锭",
+  "item.miragic.silver_nugget": "银粒",
+
+
+
+
+  "block.miragic.silver_ore": "银矿",
+  "block.miragic.silver_block": "银块",
+  "block.miragic.deepslate_silver_ore": "深层银矿",
+  "block.miragic.raw_silver_block": "粗银块",
+
+
+
+
+
+
+
+  "creativetab.miragic_tab": "奇迹魔法"
+}

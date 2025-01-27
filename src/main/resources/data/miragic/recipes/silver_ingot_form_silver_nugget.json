@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "miragic:silver_nugget"
+    }
+  },
+  "result": {
+    "item": "miragic:silver_ingot",
+    "count": 1
+  },
+  "show_notification": true
+}

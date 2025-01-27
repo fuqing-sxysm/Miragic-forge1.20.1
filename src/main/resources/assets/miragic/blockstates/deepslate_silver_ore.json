@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": {
+      "model": "miragic:block/deepslate_silver_ore",
+      "harvest_level": 2,
+      "harvest_tool": "pickaxe"
+    }
+  }
+
+}
